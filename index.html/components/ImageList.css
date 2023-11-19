@@ -1,0 +1,33 @@
+.imageList_div{
+        width: 7.5em;
+        position: relative;
+        top: -36vh;
+}
+.button_for{
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    transform:scale(1);
+    transition: transform,1s;
+}
+.button_for:hover{
+    transform: scale(.7);
+}
+.list{
+    border: none;
+    background: lightgray;
+    width: 2em;   
+}
+a{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    color: teal;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    flex-wrap: wrap;
+}
+/*2.0*/

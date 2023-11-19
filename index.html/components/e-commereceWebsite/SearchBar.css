@@ -1,0 +1,19 @@
+.search-bar{
+    border-radius: 10px;
+    background: white;
+    padding: 0.7em;
+    width: 30%;
+    opacity: .5;
+    
+}
+.search{
+    display: flex;
+    margin: 15vh;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    width: 3%;
+    height: 3%;
+    object-fit: cover;
+}

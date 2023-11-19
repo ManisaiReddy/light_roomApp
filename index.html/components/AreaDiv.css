@@ -1,0 +1,16 @@
+.area_div{
+    background: black;
+}
+.area_display{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: steelblue;
+    letter-spacing: 3px;
+}
+.namaskar{
+    letter-spacing: 12px;
+    color: tomato;
+    text-shadow: 2px 2px solid tomato;
+}
